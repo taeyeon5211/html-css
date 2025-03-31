@@ -1,0 +1,48 @@
+#container {
+    width : 640px;
+    height : 294px;
+    margin : 0 auto;
+}
+
+#content-container {
+    width : 640px;
+    border : 1px solid black;
+    margin : 0 auto;
+}
+
+#content {
+    color : red;
+    width : 640px;
+    border : 1px solid black;
+    padding: auto;
+    background-color : yellow;
+    margin : 0 auto;
+    text-align : center;
+}
+
+.my-class1 {
+    color : blue;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    caption-side: bottom;
+}
+
+caption {
+    text-align : right;
+}
+
+td, th { 
+    border: 1px solid black;
+    padding: 10px;
+}
+
+td {
+    text-align : center
+}
+
+.coloring {
+    background : yellow;
+}
